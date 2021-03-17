@@ -34,7 +34,7 @@ node name_of_file.js
 
 ### Prerequisites
 
-If you don't already have nodeJS installed, [download and install from here](https://nodejs.org/en/)
+If you don't have nodeJS installed yet, [download and install from here](https://nodejs.org/en/)
 
 ## 👨‍🚀 Author
 | [<img alt="João Trepichio" src="https://avatars2.githubusercontent.com/u/11396817?s=460&u=085712d4f1296e6ad0a220ae7c0ea5278a9c40ed&v=4" width="100">](https://trepichio.github.io) |
